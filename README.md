@@ -1,4 +1,4 @@
-## Your Name
+## Andrew Bacon
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,33 +23,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (11/19 to 02/20)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Manchester (09/2004 to 09/2008)
 
-- Subject, any specialisms
-- Grade
+- Aerospace Engineering
+- Grade: MEng(hons) 2:1
 - Other cool stuff
 
-#### Any other qualifications
+#### A-Levels
 
-That in some arguable way make you a better software developer or well-rounded person
+- Maths (A), Physics(A), Chemistry (B)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Atkins WS** (start_date to end_date)    
+*Graduate Engineer to Senior Engineer*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Surrey Satellite Technology** (start_date to end_date)   
+*Mechanical Systems Engineer*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+To recharge outside of work I like to keep active: Te
