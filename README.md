@@ -1,22 +1,33 @@
 ## Andrew Bacon
 
-A junior full stack developer and recent graduate of the Makers Acadamy bootcamp sentence about who and what you are.  Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I've always loved problem solving, which lead me into a career in aerospace engineering. I've worked on some extremely interesting projects involving the design, analysis and testing of civil aircraft wings, large telecommunications satellites and even Royal Navy frigates and I'm proud that I have directly contributed to structures that float around in space and fly people around the world.
+
+Since I was 18 and deciding what path to take on my career, I've changed and the world has changed. I gradually developed a love for coding during my career, it's a problem solving skill much like structural engineering. So I decided to learn the skill professionally through Makers. 
+
+The technology scene in London offers a fast paced, vibrant and varied career. Having now completed Makers course, I'm looking to bring my previous experience, my newly aquired skills and ambition to the London tech scene.
+
+!!this section can be improved!!
+
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### Analytical Thinking
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Problem Solving
+- Engineering is about creating a solution from a specification, or 'problem solving' this is true whether its for an aircraft or for a web application.
+- expand on this
 
 #### Communication
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Presenting technical data to customers and stakeholders
+- Writing certification quality techical reports for aircraft and satellites
 
 #### Team Player
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Worked on large scale projects where team work is essential
 
 #### Accountability
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Technical lead roles
+- Peoples lives or very expensive structure at risk
+- Important to 
 
 - Experience
 - Achievements
@@ -52,7 +63,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Aerospace Engineering
 - Grade: MEng(hons) 2:1
-- Other cool stuff
 
 #### A-Levels
 
@@ -67,10 +77,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Surrey Satellite Technology Limited (SSTL)** (start_date to end_date)   
 *Mechanical Systems Engineer*  
-- Technical responsibility for ensuring structural qualification against Launch and In-orbit loading for design analysis and testing of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
+- Managed a team of engineers responsibile for ensuring structural qualification against Launch and in-orbit loading of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
 - By far the largest and most complex satellite SSTL have designed/manufactured
-- Present status updates to the customer/stakeholders at design gate reviews
-- Managed integration between the main structure and externally supplied equipment
+- Managed the relationship between SSTL and the customer structural experts
+- Present technical justifications at design gate reviews
+
+**BAE Systems** (start_date to end_date)
+- Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
 ## Hobbies
 
