@@ -26,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Projects
 
 | Project       | Description   | Technologies  | Testing Technologies  |
-| ------------------- | ------------------- | ------------------- | ------------------- |
+| ---------------------------- | ------------------- | ------------------- | ------------------- |
 | project 1     | Content Cell  | Content Cell  | Technologies  |
 | project 2     | Content Cell  | Content Cell  | Technologies  |
 | project 2     | Content Cell  | Content Cell  | Technologies  |
