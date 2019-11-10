@@ -8,6 +8,8 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### This Skill
 
+- Presenting Technical Data: as se
+
 - Experience
 - Achievements
 - Evidence
@@ -23,10 +25,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-| First Header  | Second Header | Header        |
+| Project       | Description   | Technologies  |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| project 1     | Content Cell  | Content Cell  |
+| project 2     | Content Cell  | Content Cell  |
+| project 2     | Content Cell  | Content Cell  |
 
 ## Education
 
@@ -55,7 +58,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Surrey Satellite Technology** (start_date to end_date)   
 *Mechanical Systems Engineer*  
-- Any experience relevent to software development
+- Responsible for design analysis and testing of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
+- Present status updates to the customer/stakeholders at design gate reviews
+- Managed 
 
 ## Hobbies
 
