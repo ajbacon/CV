@@ -1,5 +1,10 @@
 ## Andrew Bacon
 
+I have a strong passion for problem solving and for around 10 years this passion was satisfied as a structural engineer before working on 
+- worked on A380 / A350 / A400M / A320 
+- worked on [Quantum](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum)
+
+I'm a software engineer recently completing Makers Academy bootcamp. 
 I've always loved problem solving, which lead me into a career in aerospace engineering. I've worked on some extremely interesting projects involving the design, analysis and testing of civil aircraft wings, large telecommunications satellites and even Royal Navy frigates and I'm proud that I have directly contributed to structures that float around in space and fly people around the world.
 
 Since I was 18 and deciding what path to take on my career, I've changed and the world has changed. I gradually developed a love for coding during my career, it's a problem solving skill much like structural engineering. So I decided to learn the skill professionally through Makers. 
