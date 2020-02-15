@@ -70,10 +70,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Atkins WS** (start_date to end_date)    
-*Graduate Engineer to Senior Engineer*  
-- Structural Engineer specialising in strength analysis of aircraft wings
-- Worked on the design and certification of Airbus A380, A350 and A400M wings
+**BAE Systems** (start_date to end_date)
+- Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
 **Surrey Satellite Technology Limited (SSTL)** (start_date to end_date)   
 *Mechanical Systems Engineer*  
@@ -82,8 +80,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Managed the relationship between SSTL and the customer structural experts
 - Present technical justifications at design gate reviews
 
-**BAE Systems** (start_date to end_date)
-- Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
+**Atkins WS** (start_date to end_date)    
+*Graduate Engineer to Senior Engineer*  
+- Structural Engineer specialising in strength analysis of aircraft wings
+- Worked on the design and certification of Airbus A380, A350 and A400M wings
 
 ## Hobbies
 
