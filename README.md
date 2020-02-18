@@ -7,13 +7,13 @@ been fascinated by computer programming and web development.
 
 I have recently completed a 16 week bootcamp at Makers and can now proudly say I am a full-stack Software Engineer. I am now looking for a role which enables me to utilise coding best practices, build my programming skillset, and allow me to develop more project management capabilities.
 
-## Skills
-
 **Tech Skills:** JavaScript, Express, Node.js MongoDB, Ruby, Rails, PostgreSQL, HTML, CSS
+
+## Skills
 
 ### Excellent Problem Solver
 
-The core of any engineering discipline is being able to logically structure and solve problems translating requirements and developing them into functional products. Every project I have worked on has had challenges that need solving, however, perhaps the most challenging was working on the design of a new satellite, which at 3.5tonnes, is 5x heavier than anything the company had produced previously. The step change in complexity was challenging for everyone, but these challenges are what excited me about working in aerospace and inspires me to be a software engineer.
+The core of any engineering discipline is being able to logically structure and solve problems translating requirements and developing them into functional products. Personally, the most rewarding challenge I've faced was leading the design of a new satellite, which at 3.5tonnes, is 5x heavier than anything the company had produced previously. The step change in complexity was challenging for everyone, but these challenges are what excited me about working in aerospace and what inspire me to be a software engineer.
 
 ### Experienced in Leadership
 
@@ -22,7 +22,6 @@ During the latter part of my aerospace career I had progressed to a mechanical s
 ### Accomplished Communicator
 
 All of my roles have required me to be in communication with the client, based on the client site and manage offshore colleagues. Communication was key to effective working but also building relationships, which eventually lead to future employment. In my latter system engineer role I was responsible for managing technical discussions with suppliers, stakeholders and presenting technical content at design acceptance reviews.
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 ## Projects
 
