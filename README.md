@@ -1,64 +1,42 @@
 ## Andrew Bacon
 
-I have a strong passion for problem solving and for around 10 years this passion was satisfied as a structural engineer before working on 
-- worked on A380 / A350 / A400M / A320 
-- worked on [Quantum](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum)
+## Who am I?
 
-I'm a software engineer recently completing Makers Academy bootcamp. 
-I've always loved problem solving, which lead me into a career in aerospace engineering. I've worked on some extremely interesting projects involving the design, analysis and testing of civil aircraft wings, large telecommunications satellites and even Royal Navy frigates and I'm proud that I have directly contributed to structures that float around in space and fly people around the world.
+After a successful career in Aerospace Engineering, working on a significant number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. In my previous career I used code in software simulations and complex analysis of structures, but always
+been fascinated by computer programming and web development.
 
-Since I was 18 and deciding what path to take on my career, I've changed and the world has changed. I gradually developed a love for coding during my career, it's a problem solving skill much like structural engineering. So I decided to learn the skill professionally through Makers. 
-
-The technology scene in London offers a fast paced, vibrant and varied career. Having now completed Makers course, I'm looking to bring my previous experience, my newly aquired skills and ambition to the London tech scene.
-
-!!this section can be improved!!
-
+I have recently completed a 16 week bootcamp at Makers and can now proudly say I am a full-stack Software Engineer. I am now looking for a role which enables me to utilise coding best practices, build my programming skillset, and allow me to develop more project management capabilities.
 
 ## Skills
 
+**Tech Skills:** JavaScript, Express, Node.js MongoDB, Ruby, Rails, PostgreSQL, HTML, CSS
+
+### Excellent Problem Solver
+
+The core of any engineering discipline is being able to logically structure and solve problems translating requirements and developing them into functional products. Every project I have worked on has had challenges that need solving, however, perhaps the most challenging was working on the design of a new satellite, which at 3.5tonnes, is 5x heavier than anything the company had produced previously. The step change in complexity was challenging for everyone, but these challenges are what excited me about working in aerospace and inspires me to be a software engineer.
+
+### Experienced in Leadership
+
+During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority and managing a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort.
+
+### Accomplished Communicator
+
+All of my roles have required me to be in communication with the client, based on the client site and manage offshore colleagues. Communication was key to effective working but also building relationships, which eventually lead to future employment. In my latter system engineer role I was responsible for managing technical discussions with suppliers, stakeholders and presenting technical content at design acceptance reviews.
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### Problem Solving
-- Engineering is about creating a solution from a specification, or 'problem solving' this is true whether its for an aircraft or for a web application.
-- expand on this
-
-#### Communication
-- Presenting technical data to customers and stakeholders
-- Writing certification quality techical reports for aircraft and satellites
-
-#### Team Player
-- Worked on large scale projects where team work is essential
-
-#### Accountability
-- Technical lead roles
-- Peoples lives or very expensive structure at risk
-- Important to 
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Projects
 
-| Project       | Description   | Technologies  | Testing Technologies  |
-| --- | --- | --- | --- |
-| this is project 1     | "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara |
-| this is project 2     | "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara |
-| this is project 3     | "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara |
+| Project           | Description                                                                                                                                                                                                                              | Technologies                  | Testing Technologies |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------- |
+| this is project 1 | Final team project. A different take on Conways Game of Life, introducing 2 player competative functionality.                                                                                                                            | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
+| this is project 2 | Team project to build a full stack facebook clone.                                                                                                                                                                                       | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
+| this is project 3 | "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
 
 ## Education
 
 #### Makers Academy (11/19 to 02/20)
 
+- Strong focus on well tested, readable and scalable code
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -75,22 +53,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**BAE Systems** (start_date to end_date)
+**BAE Systems** (Nov 2018 to Nov 2019)
+_Sprecialist Composites Structures Consultant_
+
 - Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
-**Surrey Satellite Technology Limited (SSTL)** (start_date to end_date)   
-*Mechanical Systems Engineer*  
+**Surrey Satellite Technology Limited (Part of Airbus Group)** (Mar 2013 to May 2014 & Aug 2018 to Nov 2018)  
+_Mechanical Systems Engineer_
+
 - Managed a team of engineers responsibile for ensuring structural qualification against Launch and in-orbit loading of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
 - By far the largest and most complex satellite SSTL have designed/manufactured
 - Managed the relationship between SSTL and the customer structural experts
-- Present technical justifications at design gate reviews
+- Presented technical justifications at design acceptance reviews
 
-**Atkins WS** (start_date to end_date)    
-*Graduate Engineer to Senior Engineer*  
+**Atkins WS** (Oct 2007 to Mar 2013)  
+_Graduate Engineer to Senior Engineer_
+
 - Structural Engineer specialising in strength analysis of aircraft wings
 - Worked on the design and certification of Airbus A380, A350 and A400M wings
 
 ## Hobbies
+
+As a county level tennis player when i was younger, I've always been an active person.
+
+Additionally I love cooking, a good board game and before Makers I got slightly addicted to CodeWars!
 
 - Tennis - county level player in my youth
 - Football - orgainse a 5-a-side team in London
