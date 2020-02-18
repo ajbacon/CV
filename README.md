@@ -17,7 +17,7 @@ The core of any engineering discipline is being able to logically structure and 
 
 #### Experienced in Leadership
 
-During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority and managing a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort.
+During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority with a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort.
 
 #### Accomplished Communicator
 
