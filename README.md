@@ -53,8 +53,8 @@ Consider skills relevent to software development. Then consider your best skills
 
 ## Experience
 
-**BAE Systems** (Nov 2018 to Nov 2019)
-_Sprecialist Composites Structures Consultant_
+**BAE Systems** (Nov 2018 to Nov 2019)  
+_Specialist Composites Structures Consultant_
 
 - Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
