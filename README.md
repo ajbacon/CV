@@ -2,10 +2,11 @@
 
 ## Who am I?
 
-After a successful career in Aerospace Engineering, working on a significant number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. In my previous career I used code in software simulations and complex analysis of structures, but always
-been fascinated by computer programming and web development.
+After a successful career in Aerospace Engineering, working for various leading engineering companies and on a number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. Developing software has always been an important part of my aerospace career, where autonomy and accuracy are critical for time efficient and robust designs, but what started out as a necessity has evolved into a passion.
 
-I have recently completed a 16 week bootcamp at Makers and can now proudly say I am a full-stack Software Engineer. I am now looking for a role which enables me to utilise coding best practices, build my programming skillset, and allow me to develop more project management capabilities.
+In pursuit of this passion, my research led me to Makers where, having completed the 16 week intensive bootcamp course, I’ve had the chance to not only learn how to write clean, well tested, professional code, I have also met many like-minded, brilliant and engaging peers. The experience has ratified my decision to make the jump and energised me to start next chapter of my career.
+
+In my aerospace career I reached senior engineer level, with management and system level responsibilities and while initially wanting to get as much hands on development experience as possible in an agile environment, in the long term I’m aiming for engineering manager or software architect roles backed up by my previous engineering experience.
 
 **Tech Skills:** JavaScript, Express, Node.js MongoDB, Ruby, Rails, PostgreSQL, HTML, CSS
 
