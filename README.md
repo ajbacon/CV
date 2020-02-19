@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-After a successful career in Aerospace Engineering, working for various leading engineering companies and on a number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. Developing software has always been an important part of my aerospace career, where autonomy and accuracy are critical for time efficient and robust designs, but what started out as a necessity has evolved into a passion.
+After a successful career in Aerospace Engineering, working for various leading engineering companies on a number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. Developing software has always been an important part of my aerospace career, where autonomy and accuracy are critical for time efficient and robust designs, but what started out as a necessity has evolved into a passion.
 
 In pursuit of this passion, my research led me to Makers where, having completed the 16 week intensive bootcamp course, I’ve had the chance to not only learn how to write clean, well tested, professional code, I have also met many like-minded, brilliant and engaging peers. The experience has ratified my decision to make the jump and energised me to start next chapter of my career.
 
