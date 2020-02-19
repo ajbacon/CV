@@ -6,7 +6,7 @@ After a successful career in Aerospace Engineering, working for various leading 
 
 In pursuit of this passion, my research led me to Makers where, having completed the 16 week intensive bootcamp course, I’ve had the chance to not only learn how to write clean, well tested, professional code, I have also met many like-minded, brilliant and engaging peers. The experience has ratified my decision to make the jump and energised me to start next chapter of my career.
 
-In my aerospace career I reached senior engineer level, with management and system level responsibilities and while initially wanting to get as much hands on development experience as possible in an agile environment, in the long term I’m aiming for engineering manager or software architect roles backed up by my previous engineering experience.
+In my aerospace career I reached senior engineer level, with management and system level responsibilities and while initially wanting to get as much hands on development experience as possible in an agile environment, in the long term I’m aiming for engineering manager or software architect roles to leverage my existing management and solution experience.
 
 **Tech Skills:** JavaScript, Express, Node.js MongoDB, Ruby, Rails, PostgreSQL, HTML, CSS
 
@@ -74,7 +74,7 @@ _Graduate Engineer to Senior Engineer_
 
 ## Hobbies
 
-As a county level tennis player when i was younger, I've always been an active person.
+OutAs a county level tennis player when i was younger, I've always been an active person.
 
 Additionally I love cooking, a good board game and before Makers I got slightly addicted to CodeWars!
 
@@ -82,3 +82,8 @@ Additionally I love cooking, a good board game and before Makers I got slightly 
 - Football - orgainse a 5-a-side team in London
 - Skiing
 - Cooking
+
+## Contact
+
+Email: abacon2013@gmail.com
+[LinkedIn]()
