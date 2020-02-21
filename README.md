@@ -2,9 +2,8 @@
 
 <div>
 <a href="https://www.linkedin.com/in/andrew-bacon-a13942b3/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 </div>
-  <p></p>
 
 I’m a full-stack software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
 
