@@ -1,28 +1,29 @@
 ## Andrew Bacon
 
-## Who am I?
+I’m a software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
 
-After a successful career in Aerospace Engineering, working for various leading engineering companies on a number of large-scale aircraft and satellite projects, I’ve taken the move to become a software developer. Developing software has always been an important part of my aerospace career, where autonomy and accuracy are critical for time efficient and robust designs, but what started out as a necessity has evolved into a passion.
+Having reached the role of a senior systems engineer in the aerospace field, I have extensive experience in overseeing teams of engineers in the design, analysis and testing of complex satellite structures. Using these skills, as well as the solid coding processes I’ve acquired at Makers Academy, I want to work as part of a dynamic, agile team to solve new challenges and build innovative digital technology.
 
-In pursuit of this passion, my research led me to Makers where, having completed the 16 week intensive bootcamp course, I’ve had the chance to not only learn how to write clean, well tested, professional code, I have also met many like-minded, brilliant and engaging peers. The experience has ratified my decision to make the jump and energised me to start next chapter of my career.
+## Tech Skills:
 
-In my aerospace career I reached senior engineer level, with management and system level responsibilities and while initially wanting to get as much hands on development experience as possible in an agile environment, in the long term I’m aiming for engineering manager or software architect roles to leverage my existing management and solution experience.
+- Ruby, Ruby on Rails, RSpec and Sinatra
+- JavaScript, ReactJS, NodeJS, Express, JQuery, Jasmine and Jest
+- PostgreSQL, ActiveRecord, MongoDB and Mongoose
+- HTML and css
 
-**Tech Skills:** JavaScript, Express, Node.js MongoDB, Ruby, Rails, PostgreSQL, HTML, CSS
+## Other Strengths
 
-## Skills
-
-#### Excellent Problem Solver
+#### Methodical Problem Solver
 
 The core of any engineering discipline is being able to logically structure and solve problems translating requirements and developing them into functional products. Personally, the most rewarding challenge I've faced was leading the design of a new satellite, which at 3.5tonnes, is 5x heavier than anything the company had produced previously. The step change in complexity was challenging for everyone, but these challenges are what excited me about working in aerospace and what inspire me to be a software engineer.
 
 #### Experienced in Leadership
 
-During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority with a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort.
+During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority with a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort. Important transferrable skills in my new career
 
 #### Accomplished Communicator
 
-All of my roles have required me to be in communication with the client, based on the client site and manage offshore colleagues. Communication was key to effective working but also building relationships, which eventually lead to future employment. In my latter system engineer role I was responsible for managing technical discussions with suppliers, stakeholders and presenting technical content at design acceptance reviews.
+As a system engineer All of my roles have required me to be in communication with the client, based on the client site and manage offshore colleagues. Communication was key to effective working but also building relationships, which eventually lead to future employment. In my latter system engineer role I was responsible for managing technical discussions with suppliers, stakeholders and presenting technical content at design acceptance reviews.
 
 ## Projects
 
@@ -35,6 +36,7 @@ All of my roles have required me to be in communication with the client, based o
 ## Education
 
 #### Makers Academy (11/19 to 02/20)
+Intensive Web Development Bootcamp
 
 - Strong focus on well tested, readable and scalable code
 - OOP, TDD, MVC, DDD
@@ -59,7 +61,7 @@ _Specialist Composites Structures Consultant_
 - Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
 **Surrey Satellite Technology Limited (Part of Airbus Group)** (Mar 2013 to May 2014 & Aug 2018 to Nov 2018)  
-_Mechanical Systems Engineer_
+_Senior Mechanical Systems Engineer_
 
 - Managed a team of engineers responsibile for ensuring structural qualification against Launch and in-orbit loading of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
 - By far the largest and most complex satellite SSTL have designed/manufactured
