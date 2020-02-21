@@ -1,5 +1,10 @@
 ## Andrew Bacon
 
+<div>
+<a href="https://www.linkedin.com/in/andrew-bacon-a13942b3/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42">
+</div
+
 I’m a full-stack software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
 
 Having reached the role of a senior systems engineer in the aerospace field, I have extensive experience in overseeing teams of engineers in the design, analysis and testing of complex satellite structures. Using these skills, as well as the solid coding processes I’ve acquired at Makers Academy, I want to work as part of a dynamic, agile team to solve new challenges and build innovative digital technology.
