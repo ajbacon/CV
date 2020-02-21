@@ -1,6 +1,6 @@
 ## Andrew Bacon
 
-I’m a software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
+I’m a full-stack software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
 
 Having reached the role of a senior systems engineer in the aerospace field, I have extensive experience in overseeing teams of engineers in the design, analysis and testing of complex satellite structures. Using these skills, as well as the solid coding processes I’ve acquired at Makers Academy, I want to work as part of a dynamic, agile team to solve new challenges and build innovative digital technology.
 
@@ -13,17 +13,11 @@ Having reached the role of a senior systems engineer in the aerospace field, I h
 
 ## Other Strengths
 
-#### Methodical Problem Solver
+**Methodical Problem Solver:** Throughout my career I have logically structured problems and translated requirements into functional products, which is the core of any engineering discipline. Solving new, complex and interesting problems in digital tech is what excites me about being a software engineer.
 
-The core of any engineering discipline is being able to logically structure and solve problems translating requirements and developing them into functional products. Personally, the most rewarding challenge I've faced was leading the design of a new satellite, which at 3.5tonnes, is 5x heavier than anything the company had produced previously. The step change in complexity was challenging for everyone, but these challenges are what excited me about working in aerospace and what inspire me to be a software engineer.
+**Experienced in Leadership:** As a senior systems engineer I had overall responsibility for ensuring products meet the technical specifications of the clients, usually with a team of 3-5 engineers. As such I'm able to effectively own tasks and deliver often in very time pressured situations.
 
-#### Experienced in Leadership
-
-During the latter part of my aerospace career I had progressed to a mechanical systems (architect) role, with overall responsibility for ensuring the structure meets the technical specifications of the client and launch authority with a team of 3-5 engineers. In my more junior previous roles I have mentored new graduates and currently at Makers I am mentoring 3 students in the junior cohort. Important transferrable skills in my new career
-
-#### Accomplished Communicator
-
-As a system engineer All of my roles have required me to be in communication with the client, based on the client site and manage offshore colleagues. Communication was key to effective working but also building relationships, which eventually lead to future employment. In my latter system engineer role I was responsible for managing technical discussions with suppliers, stakeholders and presenting technical content at design acceptance reviews.
+**Accomplished Communicator:** A large part of being an engineer is being able to cleary communicate often complex technical concepts. The positions I've held have often required me to be the technical point of contact with clients, where effective communication was necessary to not only build relationships, but also to maintain the reputation of my company. 
 
 ## Projects
 
@@ -76,14 +70,10 @@ _Graduate Engineer to Senior Engineer_
 
 ## Hobbies
 
-OutAs a county level tennis player when i was younger, I've always been an active person.
+A county level tennis player when I was younger, I like to keep active! Football, tennis, golf, cricket, skiing, squash to name a few of the sports I like to do regularly.
 
 Additionally I love cooking, a good board game and before Makers I got slightly addicted to CodeWars!
 
-- Tennis - county level player in my youth
-- Football - orgainse a 5-a-side team in London
-- Skiing
-- Cooking
 
 ## Contact
 
