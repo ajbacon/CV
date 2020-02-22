@@ -5,6 +5,9 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="40" width="40"></a>
  <a href="https://github.com/ajbacon">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="linkedin" height="38" width="38"></a>
+<a href="#">
+<img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="linkedin" height="38" width="38"></a>
+
  
 </div>
 
