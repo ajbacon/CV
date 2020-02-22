@@ -2,11 +2,11 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/andrew-bacon-a13942b3/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="40" width="40"></a>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" height="40" width="40" hspace="20"></a>
  <a href="https://github.com/ajbacon">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="linkedin" height="38" width="38"></a>
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="linkedin" height="38" width="38" hspace="20"></a>
 <a href="#">
-<img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="linkedin" height="38" width="38"></a>
+<img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="linkedin" height="38" width="38" hspace="20"></a>
 
  
 </div>
