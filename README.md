@@ -83,7 +83,7 @@ _Graduate Engineer to Senior Engineer_
 
 ## Hobbies
 
-A county level tennis player when I was younger, I like to keep active! Football, tennis, golf, cricket, skiing, squash to name a few of the sports I like to do regularly.
+A county level tennis player when I was younger, I like to keep active! Football, tennis, golf, cricket, skiing, squash to name a few of the sports I like to play regularly.
 
 Additionally I love cooking, a good board game and before Makers I got slightly addicted to CodeWars!
 
