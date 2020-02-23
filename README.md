@@ -33,9 +33,9 @@ Having reached the role of a senior systems engineer in the aerospace field, I h
 
 ## Projects
 
-| Project           | Description                                                                                                                                                                                                                              | Technologies                  | Testing Technologies |
+| Project           | Description                                                                                                                                                                                                                              | Technologies, Testing                  | Code Quality, Deployment |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------- |
-| this is project 1 | Final team project. A different take on Conways Game of Life, introducing 2 player competative functionality.                                                                                                                            | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
+| [N.E.O.N](https://github.com/even13/game_of_life) | Final team project. A different take on Conways Game of Life, introducing a 2 player competative element.                                                                                                                            | JavaScript, NodeJS, ReactJS, Jest, Enzyme | Travis CI, Heroku, ESLint, Code Climate     |
 | this is project 2 | Team project to build a full stack facebook clone.                                                                                                                                                                                       | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
 | this is project 3 | "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Ruby, Sinatra, Bootstrap, OOD | RSpec, Capybara      |
 
