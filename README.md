@@ -67,7 +67,7 @@ _Specialist Composites Structures Consultant_
 
 - Consultant engineer brought in as a specialist in composite structures for the Type 26 Frigate programme
 
-**Surrey Satellite Technology Limited (Part of Airbus Group)** (Mar 2013 to May 2014 & Aug 2018 to Nov 2018)  
+**Surrey Satellite Technology Limited (Part of Airbus Group)** (Mar 2013 to May 2014 & Aug 2015 to Nov 2018)  
 _Senior Mechanical Systems Engineer_
 
 - Managed a team of engineers responsibile for ensuring structural qualification against Launch and in-orbit loading of the [Quantum](http://www.esa.int/Applications/Telecommunications_Integrated_Applications/Quantum) satellite
