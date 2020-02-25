@@ -51,7 +51,7 @@ Intensive Web Development Bootcamp
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Manchester (09/2004 to 09/2008)
+#### University of Manchester (09/2003 to 09/2007)
 
 - Aerospace Engineering
 - Grade: MEng(hons) 2:1
