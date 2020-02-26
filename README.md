@@ -29,7 +29,7 @@ Having reached the role of a senior systems engineer in the aerospace field, I h
 
 **Experienced in Leadership:** As a senior systems engineer I had overall responsibility for ensuring products meet the technical specifications of the clients, usually with a team of 3-5 engineers. As such I'm able to effectively own tasks and deliver often in very time pressured situations.
 
-**Accomplished Communicator:** A large part of being an engineer is being able to cleary communicate often complex technical concepts. The positions I've held have often required me to be the technical point of contact with clients, where effective communication was necessary to not only build relationships, but also to maintain the reputation of my company. 
+**Accomplished Communicator:** A large part of being an engineer is being able to clearly communicate often complex technical concepts. The positions I've held have often required me to be the technical point of contact with clients, where effective communication was necessary to not only build relationships, but also to maintain the reputation of my company. 
 
 ## Projects
 
