@@ -79,7 +79,7 @@ _Senior Mechanical Systems Engineer_
 _Graduate Engineer to Senior Engineer_
 
 - Structural Engineer specialising in strength analysis of aircraft wings
-- Worked on the design and certification of Airbus A380, A350 and A400M wings
+- Key role in the design and certification of Airbus A380, A350 and A400M wings
 
 ## Hobbies
 
