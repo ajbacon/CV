@@ -11,10 +11,9 @@
  
 </div>
 
+I’ve recently completed the Makers Academy bootcamp after switching from a successful career in Aerospace Engineering to pursue a career in Software Engineering. I’m passionate about innovation and technology, which first led me into a career in Aerospace, however I knew that I wanted to move into a career that enabled me to be at the forefront of digital technology.
 
-I’m a full-stack software developer with a methodical, analytical mindset having developed a passion for coding on the back of a successful career in Aerospace Engineering.
-
-Having reached the role of a senior systems engineer in the aerospace field, I have extensive experience in overseeing teams of engineers in the design, analysis and testing of complex satellite structures. Using these skills, as well as the solid coding processes I’ve acquired at Makers Academy, I'm looking forward to being part of a dynamic, agile team, solving new challenges and building innovative digital technology.
+A former Senior Systems engineer, I have extensive experience in leading teams of engineers in the design, analysis and testing of complex satellite structures. I have a methodical, analytical mindset, as well as solid coding processes acquired through Makers, and look forward to being part of a dynamic, agile team, solving new challenges and building innovative digital technology. 
 
 ## Tech Skills:
 
