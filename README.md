@@ -56,7 +56,7 @@ Intensive Web Development Bootcamp
 - Aerospace Engineering
 - Grade: MEng(hons) 2:1
 
-#### A-Levels
+#### A-Levels (Lady Manner School, Bakewell)
 
 - Maths (A), Physics(A), Chemistry (B)
 
