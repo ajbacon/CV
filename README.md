@@ -7,9 +7,10 @@
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
 <a href="mailto:abacon2013@gmail.com">
 <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
-
  
 </div>
+
+[Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
 I’m a Software Engineer focused on full-stack web development, having recently completed the intensive Makers Academy software engineering course. As a former senior engineer in the aerospace industry, I come with vast experience in leading teams of engineers through all stages of the development lifecycle, and so I know what it takes to achieve world-class delivery.
 
@@ -80,8 +81,8 @@ _Graduate Engineer to Senior Engineer_
 
 - Structural Engineer specialising in strength analysis of aircraft wings
 - Key role in the design and certification of Airbus A380, A350 and A400M wings
-
-## Hobbies
+';
+## Other Interests
 
 A county level tennis player when I was younger, I like to keep active! Football, tennis, golf, cricket, skiing, squash to name a few of the sports I like to play regularly.
 
