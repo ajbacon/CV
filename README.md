@@ -8,9 +8,9 @@
 <a href="mailto:abacon2013@gmail.com">
 <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
  
+ [Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
+ 
 </div>
-
-[Skills](#tech-skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Other Interests](#other-interests)
 
 I’m a Software Engineer focused on full-stack web development, having recently completed the intensive Makers Academy software engineering course. As a former senior engineer in the aerospace industry, I come with vast experience in leading teams of engineers through all stages of the development lifecycle, and so I know what it takes to achieve world-class delivery.
 
