@@ -12,9 +12,9 @@
  
 </div>
 
-I’m a Software Engineer focused on full-stack web development, having recently completed the intensive Makers Academy software engineering course. As a former senior engineer in the aerospace industry, I come with vast experience in leading teams of engineers through all stages of the development lifecycle, and so I know what it takes to achieve world-class delivery.
+I’m a software engineer having recently completed the intensive Makers Academy software engineering course. My background is in aerospace engineering, where I have proudly led teams in delivering complex satellite and aircraft structures. In transitioning to software engineering, I want to continue my passion of solving complex problems and working with cutting edge technologies but also open up the vast array of exciting opportunities available in digital tech.
 
-I have a methodical and analytical mindset, and a thirst for solving complex problems. Through Makers I have acquired the ability to code with industry best practices and I now look forward to being part of a dynamic and agile team, working on new challenges and building innovative digital technology.
+My software experience has focused around building full-stack applications using JavaScript/Node, Python and Ruby, however the skills and practices I’ve developed through Makers has left me confident and keen to tackle any technology. I’m now seeking opportunities to work in a collaborative, fast-paced environment where I can rapidly progress and gain experience building innovative and scalable web applications
 
 
 ## Tech Skills:
