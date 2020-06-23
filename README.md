@@ -32,7 +32,7 @@ My software experience has focused around building full-stack applications using
 
 **Accomplished Communicator:** A large part of being an engineer is being able to clearly communicate often complex technical concepts. The positions I've held have often required me to be the technical point of contact with clients, where effective communication was necessary to not only build relationships, but also to maintain the reputation of my company. 
 
-**Quality Driven** Safety and extremely low failure rate are essential when designing aerospace structures, as such I have developed a meticulous mindset where thoroughly checked/tested analysis and clear reporting are paramount. I follow the same approach when developing software, by developing clean, robust and tested code
+**Quality Driven:** Safety and extremely low failure rate are essential when designing aerospace structures, as such I have developed a meticulous mindset where thoroughly checked/tested analysis and clear reporting are paramount. I follow the same approach when developing software, by developing clean, robust and tested code
 
 ## Projects
 
