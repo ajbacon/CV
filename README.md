@@ -28,9 +28,11 @@ My software experience has focused around building full-stack applications using
 
 **Methodical Problem Solver:** Throughout my career I have logically structured problems and translated requirements into functional products, which is the core of any engineering discipline. Solving new, complex and interesting problems in digital tech is what excites me about being a software engineer.
 
-**Experienced in Leadership:** As a senior systems engineer I had overall responsibility for ensuring products meet the technical specifications of the clients, usually with a team of 3-5 engineers. As such I'm able to effectively own tasks and deliver often in very time pressured situations.
+**Value Teamwork:** A primary reason for selecting Makers Academy was the emphasis placed on collaborative working through pair programming, team projects and agile team processes. Through previous roles I have found that effective teamwork is the foundation for success on any complex engineering project..
 
 **Accomplished Communicator:** A large part of being an engineer is being able to clearly communicate often complex technical concepts. The positions I've held have often required me to be the technical point of contact with clients, where effective communication was necessary to not only build relationships, but also to maintain the reputation of my company. 
+
+**Quality Driven** Safety and extremely low failure rate are essential when designing aerospace structures, as such I have developed a meticulous mindset where thoroughly checked/tested analysis and clear reporting are paramount. I follow the same approach when developing software, by developing clean, robust and tested code
 
 ## Projects
 
