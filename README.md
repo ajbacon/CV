@@ -1,6 +1,8 @@
 <h1 align="center"> Andrew Bacon </h1>
 
 <div align="center">
+<a href="https://www.andrewbacon.dev/">
+<img src="./images/logo192.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
 <a href="https://www.linkedin.com/in/andrew-bacon-a13942b3/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>
  <a href="https://github.com/ajbacon">
